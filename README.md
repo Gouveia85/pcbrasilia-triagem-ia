@@ -1,0 +1,1 @@
+AA aplicação simula um sistema de triagem policial que classifica automaticamente a prioridade de ocorrências com Machine Learning e oferece orientação procedural básica por meio de um Mini-RAG, de forma didática e interativa.
